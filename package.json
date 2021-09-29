@@ -19,7 +19,7 @@
         "bootstrap": "^4.4.1",
         "cross-env": "^5.1",
         "cross-var": "^1.1.0",
-        "datatables.net": "^1.10.19",
+        "datatables.net": "^1.11.3",
         "datatables.net-bs4": "^1.10.19",
         "jest": "^24.5.0",
         "jquery": "^3.2",
